@@ -14,4 +14,4 @@ The concept of feature in a song was operationalized by using a qualitative codi
 
 The concept of how long the song was is operationalized through a quantitative variable named song_length, where songs were measured by seconds in length. It if it was 3 minutes it converted into 180. 
 
-The concepts of how long ago the song came out is operationalized through a quantitative variable named 
+The concepts of how long ago the song came out is operationalized through a quantitative variable named "release". This was measured by year of release, after selecting my sample I went through every song and searched when it came out.
