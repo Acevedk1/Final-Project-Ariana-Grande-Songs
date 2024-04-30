@@ -10,4 +10,5 @@ I gathered the data by listing all of the songs that Ariana Grande has released 
 ##**Operationalization**
 The concept of mood of the song was operationalized by using a qualitative coding scheme using 5 different moods. Happiness,Angry,Sad,Hopeful,or love. If the song lyrics spoke about the future and change then I put it under hopeful, if it was about love or to a significant other I put it under love, if it was about living her best life and being in a better place I put it under happiness, and if it was about heartbreak or feeling down I put it under sad, and lastly if it was giving a I do not want anything to do with you vibe I put it under angry.
 
-The concept of 
+The concept of feature in a song was operationalized by using a qualitative coding scheme of yes or not. This was is more simple if the song featured another artist it was under "yes" and if it did not it put under "no".
+
