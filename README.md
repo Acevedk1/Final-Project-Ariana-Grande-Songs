@@ -12,3 +12,6 @@ The concept of mood of the song was operationalized by using a qualitative codin
 
 The concept of feature in a song was operationalized by using a qualitative coding scheme of yes or not. This was is more simple if the song featured another artist it was under "yes" and if it did not it put under "no".
 
+The concept of how long the song was is operationalized through a quantitative variable named song_length, where songs were measured by seconds in length. It if it was 3 minutes it converted into 180. 
+
+The concepts of how long ago the song came out is operationalized through a quantitative variable named 
